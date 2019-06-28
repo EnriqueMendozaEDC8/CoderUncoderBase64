@@ -5,7 +5,7 @@ Software Realizado con la finalidad de codificar y revertir una conversión a ba
 Python 3.X
 Pillow
 
-Instalación:
+<h1>Instalación:</h1>
 Instalar python: https://www.python.org/downloads/
 
 Installar Pillow: pip install pillow
